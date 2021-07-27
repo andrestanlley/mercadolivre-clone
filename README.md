@@ -4,4 +4,4 @@
 * A fonte original usada no site é "Proxima nova", nesse projeto usei Poppins.
 * Projeto ainda em andamento, sem recursos de responsividade.
 #### * As imagens, marcas e nomes utilizados pertencem ao MercadoLivre/MercadoLibre.
-![image](https://user-images.githubusercontent.com/82134080/121817326-1d41ba80-cc57-11eb-923f-e7ba91b98f2c.png)
+![image](https://user-images.githubusercontent.com/82134080/127237716-ee341799-6a23-45e6-850f-99edcf2e61e1.png)
